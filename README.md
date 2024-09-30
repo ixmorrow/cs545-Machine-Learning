@@ -4,4 +4,4 @@ Course materials, homework, readings, lecture notes, etc. from CS 545 Machine Le
 
 Course webiste:
 
-https://www.cs.colostate.edu/~anderson/cs545/doku.php?id=start
+[https://www.cs.colostate.edu/~anderson/cs545/doku.php?id=start](https://www.cs.colostate.edu/~anderson/cs545/doku.php?id=syllabus)
